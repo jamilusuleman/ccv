@@ -88,7 +88,7 @@ div{
 
 .copyright{
     color: #eaf6f6;
-    font-size: 0.75rem;
+    font-size: 0.75rem;            
     padding: 20px 0;
 }
 
@@ -116,7 +116,9 @@ div{
 }
     
 .profile-picture{
+    stroke: red;
     margin-top: 1%;
+    
 }
 
 
@@ -146,3 +148,6 @@ div{
   background-image: linear-gradient(to bottom, #2bc4ad, #2bc4ad);
   text-decoration: none;
 }
+
+
+  
